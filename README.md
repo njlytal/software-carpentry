@@ -1,2 +1,2 @@
 # software-carpentry
-Project for software carpentry workshop - Oct 3-4, 2015
+This is a project for the UA software carpentry workshop - Oct 3-4, 2015
